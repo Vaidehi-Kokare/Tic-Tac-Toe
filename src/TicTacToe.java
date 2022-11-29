@@ -1,11 +1,15 @@
-package com.bridgelabz
+package com.bridgelabz;
+
 public class TicTacToe {
 	static void board() {
-		for (int i )
+		char[] = new char[10];
+		for (int i; i<board.length;i++) {
+			
+		}
 	}
 
 	public static void main(String[] args) {
-		board(char);
+		board();
 
 	}
 
